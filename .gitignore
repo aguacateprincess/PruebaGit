@@ -3,3 +3,6 @@ doc/*.txt
 div/**/*.txt
 *.odt
 !noignorar.odt
+nuri/**/*.txt
+carpet/**/*.ods
+ultima/**/*.bmp
