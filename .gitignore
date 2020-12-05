@@ -1,0 +1,5 @@
+build/
+doc/*.txt
+div/**/*.txt
+*.odt
+!noignorar.odt
